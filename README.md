@@ -291,5 +291,5 @@ To https://github.com/w3schools-test/hello-world.git
  * [new branch]      master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
 ```
-
+Now, go back into GitHub and see that the repository has been updated
 
